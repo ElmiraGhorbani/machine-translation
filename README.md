@@ -9,7 +9,5 @@
 
 
 </p>
-<p align="right" direction="rtl">
-  برای آموزش داده ها  از یک مدل seq2seq برای ترجمه فارسی به انگلیسی با استفاده از tf.keras و  eager execution است.
-  </p>
+
  source for train data:  https://github.com//tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
