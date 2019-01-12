@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>ترجمه کن :)</title>
+        <link rel="stylesheet" href="static/css/styles.css" />
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script> 
+		<script type="text/javascript" src="static/js/jquery.filedrop.js"></script>
+        <script type="text/javascript" src="static/js/upload.js"></script>
+    </head>
+	<style>
+	  .center{
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  }
+  .btn{
+      display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid #aa4c90;
+    color: white;
+    background-color: #aa4c90;
+  }
+  .btn:hover{
+  background-color:white;
+  color:#59254a;
+  border: 1px solid #aa4c90;
+  }
+  .e{
+    float: right;
+    margin-right: 23px;
+    margin-top: -59px;
+    padding-right: 18px;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid #aa4c90;
+    color: white;
+    background-color: #aa4c90;
+    border-radius: 6%;
+    z-index: 2;
+    font-size: 11pt;
+    text-align: left;
+    width: 109px;
+  }
+  .e:hover{
+  background-color:#6a4876;
+  color:white;
+  border: 1px solid #6a4876;
+  }
+  .im{
+      float: right;
+    margin-top: -43px;
+    margin-right: 32px;
+    z-index: 200;
+    position: relative;
+	}
+	</style>
+    <body>
+	<div class="h">
+        <form action="{{ url_for('submit') }}" method="post">
+            <textarea name="text"></textarea>
+            <input type="submit">
+        </form>
+	</div>
+		
+    </body>
+
+</html>
+
