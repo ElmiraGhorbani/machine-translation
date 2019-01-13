@@ -10,7 +10,11 @@
 
 </p>
 <p align="right">برای توضیح بیشتر میتوانید بلاگ پست زیر را بخوانید</p>:
-http://blog.class.vision/1397/10/machine-translation
+<p align="right">http://blog.class.vision/1397/10/machine-translation</p>
 
-source for train data: https://github.com//tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
+<p align="right">سایت درس</p>
+<p align="right">http://fall97.class.vision/</p>
+
+<p align="right"> منبع آموزش مدل</p>
+<p align="right">  https://github.com//tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb</p>
 
