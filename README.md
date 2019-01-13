@@ -9,4 +9,8 @@
 
 
 </p>
+<p align="right">برای توضیح بیشتر میتوانید بلاگ پست زیر را بخوانید</p>:
+http://blog.class.vision/1397/10/machine-translation
+
 source for train data: https://github.com//tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
+
