@@ -1,8 +1,8 @@
-## Machine Translation
+# Machine Translation
 
 ![alt text](http://s8.picofile.com/file/8348283550/Screenshot_from_2019_01_09_01_08_25.png)
 
-### Motivation
+## Motivation
 The translator is a free bilingual translation service provided for a more fluent translation of the text, it trained with 108794 data including trailer subtitled videos and serials and commonly used Persian terms.
 
 ## Acknowledgments
